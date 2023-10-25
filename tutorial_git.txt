@@ -3,7 +3,7 @@
 3.- Inicializar el repositorio
         @git init
 4.- Agregar archivos al repositorio
-        @git add all
+        @git add .
 5.- Validar el estatus del repositorio (opcional)
         @git status
 6.- Autentificar el usuario
