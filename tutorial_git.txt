@@ -1,0 +1,15 @@
+1.- Crear la carpeta del repositorio
+2.- CD a la carpeta
+3.- Inicializar el repositorio
+        @git init
+4.- Agregar archivos al repositorio
+        @git add all
+5.- Validar el estatus del repositorio (opcional)
+        @git status
+6.- Autentificar el usuario
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+6.- Creacion de un commit
+        @git commit -m'texto del commit'
+
+
