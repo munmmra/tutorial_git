@@ -11,5 +11,22 @@
         git config --global user.name "Your Name"
 6.- Creacion de un commit
         @git commit -m'texto del commit'
+7.- Creación del repocitorio en githube
+8.- agregar el origen del repositorio
+        @git remote add origin https://github.com/munmmra/tutorial_git.git
+9.- seleccionamos la rama objetivo
+        @git branch -M main seleccionamos 
+10.- cargamos la informacion al repositorio
+        @git push -u origin main
+
+// para realizar procimas actualizaciones
+1.- grardamos en el reposritorio local los cambios
+        @git add .
+2.- generamos un punto de carga
+        @@git commit -m'texto del commit'
+3.- seleccionamos la rama objetivo
+        @git branch -M main seleccionamos 
+4.- cargamos la informacion al repositorio
+        @git push -u origin main
 
 
